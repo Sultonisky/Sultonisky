@@ -1,11 +1,11 @@
 # Hello, I'm Mohammad Sultoni
 
-Hello there.
-I am Toni an Information Systems student from Indonesia who's been spending a lot of time tinkering with web development
+Hello there. I am Toni, an Information Systems student from Indonesia, who has been spending a lot of time tinkering with web development. 
 
-My focus leans toward backend, though I've worked on the frontend side too. I like understanding how things work under the hood — how data flows, how systems are structured, and how to keep things simple without overcomplicating them.
+My main interest is in the backend, but I've also done some work on the frontend. I enjoy learning how things really work inside, like how data moves around, how systems 
+are put together, and how to make things straightforward without making them too complicated. Still very much a learner. I create things, break them, find out why they don’t work, and then try again. 
 
-Still very much a learner. I build things, break them, figure out why, and try again. If you have feedback or just want to talk tech, I'm all ears.
+If you have any feedback or want to discuss about something with me, feel free to share.
 
 
 ---
