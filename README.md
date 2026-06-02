@@ -4,7 +4,8 @@ A student studying Information Systems from Indonesia who is really interested i
 
 I like creating web apps, figuring out how data moves around, designing APIs, and learning how different parts of a system work with each other. I have mostly worked with PHP and Laravel, but I've been looking into the Node.js world lately, especially using NestJS and other connected tools.
 
-Still working on learning, trying out new things, and always curious about how to find better ways to build things.
+I like understanding how things work internally, breaking things apart, and rebuilding them in a simpler way.
+Still working on learning, trying out new things, and always curious about how to find better ways to build things. 
 
 ---
 
@@ -41,8 +42,3 @@ Learning different approaches to backend architecture, APIs, and modern full-sta
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
----
-
-## Notes
-
-I like understanding how things work internally, breaking things apart, and rebuilding them in a simpler way.
