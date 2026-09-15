@@ -1,22 +1,23 @@
 # Hello, I'm Mohammad Sultoni
 
-**Backend-focused developer | Laravel • PHP • Node.js • Python**
+**Full-Stack Developer | UX-First • Laravel • Svelte • Node.js • Python**
 
-A student studying Information Systems from Indonesia who is interested in backend development and understanding how systems work from the inside out.
+A student studying Information Systems from Indonesia who builds full-stack web applications with a UX-first mindset - intuitive on the outside, solid on the inside.
 
-I enjoy building web applications, designing APIs, working with databases, and figuring out how different parts of a system communicate with each other. I have mostly worked with PHP and Laravel, while also exploring the Node.js ecosystem and other modern development tools.
+I enjoy crafting clean, responsive interfaces, designing APIs, working with databases, and connecting every layer of a system into a smooth user experience. My base is PHP and Laravel on the backend, with Svelte, Tailwind, and modern JS/TS on the frontend, while exploring the Node.js ecosystem and modern development workflows.
 
-I like understanding how things work internally, breaking problems apart, and rebuilding them in a simpler way.
+I like understanding how things work end-to-end - from user flow and layout, to API design and database structure - breaking problems apart, and rebuilding them in a simpler, more usable way.
 
 ---
 
 ## What I Build
 
-* 🔧 Backend systems and REST APIs
+* 🖥️ Full-stack web applications with clean, responsive UIs
+* ✨ UX-first interfaces - simple flows, clear layouts, thoughtful details
+* 🔧 Backend systems and REST APIs that power great frontends
 * 🌐 Database-driven web applications
 * 🏢 Internal business and management systems
 * ⚙️ Automation and developer tools
-* 🔄 Full-stack applications when needed
 
 ---
 
@@ -26,7 +27,7 @@ I like understanding how things work internally, breaking problems apart, and re
   <img src="https://skillicons.dev/icons?i=laravel,php,js,python,ts,mysql,nestjs,svelte,nodejs,prisma,postgres,bootstrap,tailwind" alt="Favorite Stack" />
 </p>
 
-Focused on building backend systems and web applications with Laravel and PHP, while working with frontend technologies when needed.
+Focused on building full-stack applications end-to-end - Laravel and PHP for reliable backends, Svelte, Tailwind, and modern JS/TS for fast, intuitive frontends.
 
 ---
 
@@ -36,7 +37,7 @@ Focused on building backend systems and web applications with Laravel and PHP, w
   <img src="https://skillicons.dev/icons?i=vue,flutter,sass,fastapi,md,opencv,pinia,redis,sqlite,supabase,svg,xml" alt="Currently Exploring" />
 </p>
 
-Exploring different approaches to backend architecture, APIs, full-stack development, automation, and modern application workflows.
+Exploring full-stack architecture, UX design, component-driven frontends, clean APIs, automation, and modern application workflows.
 
 ---
 
@@ -50,38 +51,11 @@ Exploring different approaches to backend architecture, APIs, full-stack develop
 
 ## How I Build
 
-> **Understand the problem → design the system → build it → break it → improve it.**
+> **Understand the user → design the experience → build the system → test it → improve it.**
 
-I care about understanding how systems work internally, not just making them work.
+I care about how software *feels*, not just how it works - clear flows, responsive layouts, and reliable systems behind them.
 
-I enjoy breaking complex problems into smaller pieces, learning from the process, and finding simpler ways to build reliable software.
-
----
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Sultonisky&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Sultonisky&hide_border=true&theme=transparent"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sultonisky&layout=compact&hide_border=true&theme=transparent"
-    alt="Most Used Languages"
-  />
-</p>
+I enjoy breaking complex problems into smaller pieces, starting from the user experience, then designing the API and data layer to support it in the simplest, most maintainable way.
 
 ---
 
