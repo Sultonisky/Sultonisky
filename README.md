@@ -27,7 +27,7 @@ I like understanding how things work end-to-end - from user flow and layout, to 
   <img src="https://skillicons.dev/icons?i=laravel,php,js,python,ts,mysql,nestjs,svelte,nodejs,prisma,postgres,bootstrap,tailwind" alt="Favorite Stack" />
 </p>
 
-Focused on building full-stack applications end-to-end - Laravel and PHP for reliable backends, Svelte, Tailwind, and modern JS/TS for fast, intuitive frontends.
+Focused on shipping full-stack apps people actually enjoy using - solid Laravel / PHP and Node.js backends, clean Prisma + Postgres / MySQL data layers, and fast, responsive Svelte + Tailwind frontends on top.
 
 ---
 
@@ -37,7 +37,7 @@ Focused on building full-stack applications end-to-end - Laravel and PHP for rel
   <img src="https://skillicons.dev/icons?i=vue,flutter,sass,fastapi,md,opencv,pinia,redis,sqlite,supabase,svg,xml" alt="Currently Exploring" />
 </p>
 
-Exploring full-stack architecture, UX design, component-driven frontends, clean APIs, automation, and modern application workflows.
+Digging deeper into Vue + Pinia, Flutter, FastAPI, Redis, Supabase, and design-to-code workflows - Figma to accessible, component-driven UI.
 
 ---
 
@@ -46,6 +46,8 @@ Exploring full-stack architecture, UX design, component-driven frontends, clean 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,figma,npm,pnpm,gcp,githubactions,powershell" alt="Tools" />
 </p>
+
+My day-to-day kit for designing, building, and shipping - VS Code for code, Figma for UX exploration and handoff, Postman + Docker for testing and local parity, and GitHub Actions for CI that keeps UX polish from breaking.
 
 ---
 
