@@ -21,6 +21,17 @@ I like understanding how things work end-to-end - from user flow and layout, to 
 
 ---
 
+## Featured Projects
+
+* **[Slogy](https://github.com/Sultonisky/Slogy)** - Tamper-proof Laravel activity logger as a Composer package. Every log entry is chained with SHA-256 hashes so edits or deletions are immediately detectable, with artisan commands for verify and cleanup.
+  <br />`Laravel` `PHP` `Composer Package`
+  <br />[![Stars](https://img.shields.io/github/stars/Sultonisky/Slogy?style=flat)](https://github.com/Sultonisky/Slogy/stargazers)
+* **[Scroll](https://github.com/Sultonisky/Scroll)** - Open-source, self-hosted payroll system for remote-first companies. Clean interface to manage employees, run monthly payroll, handle bonuses, and export pay data.
+  <br />`Laravel` `Blade` `MySQL` `CoreUI`
+  <br />[![Stars](https://img.shields.io/github/stars/Sultonisky/Scroll?style=flat)](https://github.com/Sultonisky/Scroll/stargazers)
+
+---
+
 ## Favorite Stack
 
 <p align="left">
