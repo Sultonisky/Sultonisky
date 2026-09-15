@@ -12,19 +12,19 @@ I like understanding how things work end-to-end - from user flow and layout, to 
 
 ## What I Build
 
-* 🖥️ Full-stack web applications with clean, responsive UIs
-* ✨ UX-first interfaces - simple flows, clear layouts, thoughtful details
-* 🔧 Backend systems and REST APIs that power great frontends
-* 🌐 Database-driven web applications
-* 🏢 Internal business and management systems
-* ⚙️ Automation and developer tools
+* **Full-stack web applications** with clean, responsive UIs
+* **UX-first interfaces** - simple flows, clear layouts, thoughtful details
+* **Backend systems and REST APIs** that power great frontends
+* **Database-driven web applications**
+* **Internal business and management systems**
+* **Automation and developer tools**
 
 ---
 
 ## Favorite Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,js,python,ts,mysql,nestjs,svelte,nodejs,prisma,postgres,bootstrap,tailwind" alt="Favorite Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,nestjs,svelte,tailwind,bootstrap,python,postgres,mysql,prisma" alt="Favorite Stack" />
 </p>
 
 Focused on shipping full-stack apps people actually enjoy using - solid Laravel / PHP and Node.js backends, clean Prisma + Postgres / MySQL data layers, and fast, responsive Svelte + Tailwind frontends on top.
@@ -34,7 +34,7 @@ Focused on shipping full-stack apps people actually enjoy using - solid Laravel 
 ## Currently Exploring
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,flutter,sass,fastapi,md,opencv,pinia,redis,sqlite,supabase,svg,xml" alt="Currently Exploring" />
+  <img src="https://skillicons.dev/icons?i=vue,pinia,sass,svg,dart,flutter,fastapi,supabase,sqlite,redis,opencv,md,xml" alt="Currently Exploring" />
 </p>
 
 Digging deeper into Vue + Pinia, Flutter, FastAPI, Redis, Supabase, and design-to-code workflows - Figma to accessible, component-driven UI.
@@ -44,7 +44,7 @@ Digging deeper into Vue + Pinia, Flutter, FastAPI, Redis, Supabase, and design-t
 ## Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,figma,npm,pnpm,gcp,githubactions,powershell" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,githubactions,postman,docker,npm,pnpm,powershell,gcp" alt="Tools" />
 </p>
 
 My day-to-day kit for designing, building, and shipping - VS Code for code, Figma for UX exploration and handoff, Postman + Docker for testing and local parity, and GitHub Actions for CI that keeps UX polish from breaking.
@@ -68,3 +68,22 @@ I enjoy breaking complex problems into smaller pieces, starting from the user ex
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sultonisky/Sultonisky/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sultonisky/Sultonisky/output/github-snake.svg" />
 </picture>
+
+---
+
+## Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammad-sultoni-a529b0371" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhsultonipml111@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for stopping by - let's build something clean, fast, and delightful to use.
+</p>
