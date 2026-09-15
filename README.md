@@ -1,6 +1,6 @@
 # Hello, I'm Mohammad Sultoni
 
-**Full-Stack Developer | UX-First • Laravel • Svelte • Node.js • Python**
+**Full-Stack Developer | UX-First | Laravel • NestJS • SvelteKit • Node.js • Python**
 
 A student studying Information Systems from Indonesia who builds full-stack web applications with a UX-first mindset - intuitive on the outside, solid on the inside.
 
@@ -82,16 +82,18 @@ I enjoy breaking complex problems into smaller pieces, starting from the user ex
 
 ---
 
+<div align="center">
+
 ## Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-sultoni-a529b0371" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:muhsultonipml111@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/mohammad-sultoni-a529b0371" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:muhsultonipml111@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+
+</div>
 
 ---
 
