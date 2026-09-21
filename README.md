@@ -35,7 +35,7 @@ I like understanding how things work end-to-end - from user flow and layout, to 
 ## Favorite Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,ts,python,nodejs,nestjs,svelte,tailwind,bootstrap,vite,postgres,mysql,sqlite,prisma,md,svg" alt="Favorite Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,ts,python,nodejs,nestjs,svelte,tailwind,bootstrap,vite,postgres,mysql,sqlite,prisma,vitest,md,svg,regex" alt="Favorite Stack" />
 </p>
 
 Focused on shipping full-stack apps people actually enjoy using - solid Laravel / PHP and Node.js backends, clean Prisma + Postgres / MySQL data layers, and fast, responsive Svelte + Tailwind frontends on top.
