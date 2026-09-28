@@ -45,7 +45,7 @@ Focused on shipping full-stack apps people actually enjoy using - solid Laravel 
 ## Currently Exploring
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,pinia,alpinejs,sass,dart,flutter,fastapi,express,supabase,redis,mongodb,jest,opencv,xml" alt="Currently Exploring" />
+  <img src="https://skillicons.dev/icons?i=vue,pinia,nuxtjs,alpinejs,sass,dart,flutter,fastapi,express,supabase,redis,mongodb,jest,opencv,xml" alt="Currently Exploring" />
 </p>
 
 Digging deeper into Vue + Pinia, Flutter, FastAPI, Redis, Supabase, and design-to-code workflows - Figma to accessible, component-driven UI.
